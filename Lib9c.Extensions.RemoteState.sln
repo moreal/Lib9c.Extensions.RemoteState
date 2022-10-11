@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib9c.Extensions.RemoteState", "Lib9c.Extensions.RemoteState\Lib9c.Extensions.RemoteState.csproj", "{5EFE6B82-27ED-4290-87A8-B1130080AA5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib9c.Extensions.RemoteState.Tests", "Lib9c.Extensions.RemoteState.Tests\Lib9c.Extensions.RemoteState.Tests.csproj", "{D4B42742-96AE-4110-91A9-5E9C06FD425D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EFE6B82-27ED-4290-87A8-B1130080AA5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFE6B82-27ED-4290-87A8-B1130080AA5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFE6B82-27ED-4290-87A8-B1130080AA5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFE6B82-27ED-4290-87A8-B1130080AA5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B42742-96AE-4110-91A9-5E9C06FD425D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B42742-96AE-4110-91A9-5E9C06FD425D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B42742-96AE-4110-91A9-5E9C06FD425D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B42742-96AE-4110-91A9-5E9C06FD425D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
